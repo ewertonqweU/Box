@@ -1,1 +1,3 @@
 SpeechRecognizer
+Pyaudio
+Vosk+model pt-br
